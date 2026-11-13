@@ -58,3 +58,19 @@ The results, including reconstructed images and log files, will be saved in the 
 
 - This code is based on [SemanticGAN](https://github.com/nv-tlabs/semanticGAN_code) and [SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN/tree/main). We extend our sincere thanks to the authors of these projects for their valuable works.
 
+
+## Citation
+
+If you find this code useful, please consider citing our related work:
+
+```bibtex
+@article{tang2026cache,
+  title   = {Cache-enabled Generative Joint Source-Channel Coding for Evolving Semantic Communications},
+  author  = {Tang, S. and Yang, Q. and Park, J. and Zhang, Z. and Huang, K. and G{\"u}nd{\"u}z, D.},
+  journal = {IEEE Transactions on Communications},
+  volume  = {74},
+  pages   = {15156--15172},
+  year    = {2026},
+  doi     = {10.1109/TCOMM.2026.3735786}
+}
+```
